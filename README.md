@@ -12,6 +12,17 @@ Teil der didaktischen Arbeit des Instituts sind u.a. Projekttage für Schulklass
 
 ## Zielsetzung und Vision
 
+Zur motivierenden und aktivierenden Vorbereitung der theoretischen Grundlagen für Projekttage soll im Rahmen des Praxisprojekts ein digitales Lernmodul entstehen, welches von den Schüler:innen an iPads oder Tablets durchgeführt werden kann und ein festes Element des Projekttags darstellen soll. Eine gezielte Gestaltung der UX mit Gamification-Elementen soll den Spaß am Lernprozess erhöhen. Hierbei soll auf einen sinnvollen Einsatz von didaktischen Methoden und eine Orientierung am Lehrplan und Medienkompetenzrahmen geachtet werden. Da die umfassende Vorbereitung für die Inhalte des Projekttags auch Experimente umfasst, die zum Teil jedoch einige Tage Vorbereitung benötigen können, ist ein Ziel des Projekts darüber hinaus die digitale Umsetzung dieser Versuche im Lernmodul. —> hier noch Lehrplan einbauen und Verweise zu MKR
+Für den Einsatz des digitalen Lernmoduls kommen drei Use Cases in Frage:
+·	Vorbereitung auf den Projekttag im Schulunterricht durch die Lehrkraft
+·	Einsatz am Projekttag selbst, falls genügend Zeit vorhanden ist
+·	Unabhängige Nutzung durch Lehrkräfte im eigenen Unterricht
+Neben dem regulären Einsatz am Projekttag soll also auch eine flexible Nutzung durch die Lehrkraft möglich sein.
+·	Elemente der UX und im besonderen der Gamification sollen motivierend wirken und den Spaß am Lernprozess erhöhen
+·	Entlastung der Lehrkräfte durch Zeitersparnis bei der Vorbereitung auf den Projekttag
+·	Neben einer genauen Nutzer- und Anforderungsanalyse soll ein clickable Figma-Prototyp des Lernmoduls entstehen, ggf. auch User Journeys, Empathy Maps
+
+
 ## Gesellschaftliche, wirtschaftliche und wissenschaftliche Relevanz
 
 ##### Gesellschaftliche Relevanz: 

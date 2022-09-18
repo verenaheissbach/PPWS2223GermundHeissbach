@@ -3,7 +3,9 @@ Dieses Praxisprojekt baut auf unserem Entwicklungsprojekt im Ws21/22 auf. Alle A
 
 # Exposé: Entwicklung eines digitalen Lernmoduls zum Thema Stoffkreisuläufe in Ökosystemen am Bespiel von Aquaponik
 
-### Schwerpunkt: UX, Gamification, Digital Learning
+### Schwerpunkt: 
+- UX (im geringeren UI)
+- Soziotechnische Systeme (Gamification, Digital Learning)
 
 ## Darstellung des Problemraums
 Das Institut für Biologiedidaktik der Universität zu Köln betreibt seit einigen Jahren eine kleine Aquaponikanlage, die sowohl für didaktische als auch für wissenschaftliche Zwecke genutzt wird. Im Rahmen des Entwicklungsprojekts wurde im Wintersemester 21/22 eine erster Prototyp für die Automatisierung der Anlagenüberwachung erstellt, um die Pflege der Anlage zu erleichtern.

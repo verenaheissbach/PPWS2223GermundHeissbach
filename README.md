@@ -33,10 +33,10 @@ Das Projekt Aquaponik begleitet uns tatsächlich schon seit Anfang unseres Studi
 
 ##### Gesellschaftliche Relevanz: 
 Die Digitalisierung schreitet täglich in allen Lebensbereichen voran. Das Leben ohne digitale Hard- und Software ist kaum noch denkbar. 
-Trotz alldem Fortschritt weist Deutschland noch große Lücken im Bereich Digitalisierung und Bildung auf. Die Studien des ICILS von 2018 belegen das in den meisten Kategorien Deutschland schwach abschneidet. Quelle [^4,^5] 
+Trotz alldem Fortschritt weist Deutschland noch große Lücken im Bereich Digitalisierung und Bildung auf. Die Studien des ICILS von 2018 belegen das in den meisten Kategorien Deutschland schwach abschneidet. [^4][^5] 
 Die aktuelle Corona Situation hat das Ausmaß dieser Lücken noch verdeutlicht.Nicht nur die Hardware Situation auch der Umgang mit digitalen Medien ist verbesserungswürdig.
 
-Um dem Entgegen zu wirken wurden mehrere Programme entwickelt (u.a. der DigitalPakt Schule 2019-2022 Quelle: [^2], Digitalstrategie Schule NRW Quelle: [^3], KMK-Strategie „Bildung in der digitalen Welt" Quelle: [^4]). All diese Programme verfolgen jedoch ein Kernziel: Die Digitalisierung in der deutschen Bildung verbessern und zum Vorteil zu nutzen.Denn das sichert nicht nur Innovation sondern bildet die Grundlage für eine gesunde, gebildete und schlussendlich eine zukunftsfähige Gesellschaft. Es schafft die Möglichkeit für Chancengleichheit, Integration und sozialen Ausgleich.
+Um dem Entgegen zu wirken wurden mehrere Programme entwickelt (u.a. der DigitalPakt Schule 2019-2022  [^2], Digitalstrategie Schule NRW  [^3], KMK-Strategie „Bildung in der digitalen Welt" [^4]). All diese Programme verfolgen jedoch ein Kernziel: Die Digitalisierung in der deutschen Bildung verbessern und zum Vorteil zu nutzen.Denn das sichert nicht nur Innovation sondern bildet die Grundlage für eine gesunde, gebildete und schlussendlich eine zukunftsfähige Gesellschaft. Es schafft die Möglichkeit für Chancengleichheit, Integration und sozialen Ausgleich.
 
 
 Auch der Bereich der Gamification findet Platz in den Programmen. (Quelle: [^3] S.19)
@@ -54,7 +54,7 @@ Sekundär:
 Quelle: [^1]
 
 ##### Wirtschaftliche Relevanz:
-Die wirtschaftliche Relevanz des Projektes zeigt sich vor allem in den Finanzvolumen der unterschiedlichen Programme zur Digitalisierung (Bsp.:Digitalisierte Schule NRW : Digitalstrategie bis 2025 rund 1,9 Mio € Finanzvolumen, Quelle: [^3]) welche Beweisen das aktuell hohe Summen in diesen Bereich investiert werden.
+Die wirtschaftliche Relevanz des Projektes zeigt sich vor allem in den Finanzvolumen der unterschiedlichen Programme zur Digitalisierung (Bsp.:Digitalisierte Schule NRW : Digitalstrategie bis 2025 rund 1,9 Mio € Finanzvolumen [^3]) welche Beweisen das aktuell hohe Summen in diesen Bereich investiert werden.
 
 Auf Lange Sicht soll die Verbesserung der Digitalisierung eine zeitgemäße Gestaltung der Bildung erzielen. Und somit den wirtschaftlichen Wohlstand Deutschland sichern. (Quelle: [^2], S.5ff)
 

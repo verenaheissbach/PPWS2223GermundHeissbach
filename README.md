@@ -45,10 +45,12 @@ Diese kurze Einleitung soll die Aktualität und Kritikalität des Themas Digital
 Dieses Praxisprojekt baut genau auf diesen Ansätzen an. Mit Hilfe des entwickelten System soll Schülern spielerisch das Thema Stoffkreisläufe in Ökosystemen beigebracht werden. Lehrer sollen dabei durch das System nicht nur unterstützt sondern auch entlastet werden. Das System soll die Möglichkeit bieten auch auf anderen Themengebiet genutzt zu werden. Es fördert somit nicht nur das lernen von neuen eventuell schwierigen Inhalten, sondern soll auch die Medienkopetenz der Schüler:innen fördern. 
 
 Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit diesem Projekt adressiert
-####Primär:
+
+#### Primär:
 –	SDG 4 Hochwertige Bildung
 –	SDG 9 Industrie, Innovation und Infrastruktur
-####Sekundär:
+
+#### Sekundär:
 –	SDG 11 Nachhaltige Städte und Gemeinden
 –	SDG 12 Nachhaltiger Konsum und Produktion
 –	SDG 13 Maßnahmen zum Klimaschutz

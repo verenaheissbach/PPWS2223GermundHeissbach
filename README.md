@@ -44,7 +44,7 @@ Auch der Bereich der Gamification findet Platz in den Programmen. (Quelle: [^3] 
 Diese kurze Einleitung soll die Aktualität und Kritikalität des Themas Digitalisierung und Bildung darstellen.
 Dieses Praxisprojekt baut genau auf diesen Ansätzen an. Mit Hilfe des entwickelten System soll Schülern spielerisch das Thema Stoffkreisläufe in Ökosystemen beigebracht werden. Lehrer sollen dabei durch das System nicht nur unterstützt sondern auch entlastet werden. Das System soll die Möglichkeit bieten auch auf anderen Themengebiet genutzt zu werden. Es fördert somit nicht nur das lernen von neuen eventuell schwierigen Inhalten, sondern soll auch die Medienkopetenz der Schüler:innen fördern. 
 
-Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit diesem Projekt adressiert
+Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit diesem Projekt adressiert[^1]
 
 #### Primär:
 -	SDG 4 Hochwertige Bildung
@@ -54,7 +54,7 @@ Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit dies
 -	SDG 11 Nachhaltige Städte und Gemeinden
 -	SDG 12 Nachhaltiger Konsum und Produktion
 -	SDG 13 Maßnahmen zum Klimaschutz
-Quelle: [^1]
+
 
 ### Wirtschaftliche Relevanz:
 Die wirtschaftliche Relevanz des Projektes zeigt sich vor allem in den Finanzvolumen der unterschiedlichen Programme zur Digitalisierung (Bsp.:Digitalisierte Schule NRW : Digitalstrategie bis 2025 rund 1,9 Mio € Finanzvolumen [^3]) welche Beweisen das aktuell hohe Summen in diesen Bereich investiert werden.

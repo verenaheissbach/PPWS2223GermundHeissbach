@@ -28,10 +28,11 @@ Im Laufe des Projekts sollen hierfür zunächst genaue Nutzer- und Anforderungsa
 
 
 ## Gesellschaftliche, wirtschaftliche und wissenschaftliche Relevanz
-### Relevanz fürs Team:
-Das Projekt Aquaponik begleitet uns tatsächlich schon seit Anfang unseres Studiums: angefangen mit dem MCI Projekt zum Thema *Menschenzentrierte Entwicklung eines interaktiven Systems für den Betrieb von Aquaponikanlagen in urbanen Gemeinschaftsgärten* über die Realisierung einer automatisierten Überwachung für Aquaponikanlagen im Entwicklungsprojekt (Back-End, Web-Dev, IoT Fokus) im letzten WiSe. Welches sich inzwischen zu Interdisziplinären Projekt zwischen Der TH Köln und Der Universität Köln entwickelt hat. Jetzt möchten wir unser Studium auch mit diesem Projekt beenden und das Thema aus einer anderen Perspektive analysieren und synthetisieren. Der Fokus soll nun auf dem Bereich UX und Gamification, Digital Learning liegen.
+#### Relevanz fürs Team:
+Das Projekt Aquaponik begleitet uns tatsächlich schon seit Anfang unseres Studiums: angefangen mit dem MCI Projekt zum Thema *Menschenzentrierte Entwicklung eines interaktiven Systems für den Betrieb von Aquaponikanlagen in urbanen Gemeinschaftsgärten* über die Realisierung einer automatisierten Überwachung für Aquaponikanlagen im Entwicklungsprojekt (Back-End, Web-Dev, IoT Fokus) im letzten WiSe. 
+Welches sich inzwischen zu Interdisziplinären Projekt zwischen Der TH Köln und Der Universität Köln entwickelt hat. Jetzt möchten wir unser Studium auch mit diesem Projekt beenden und das Thema aus einer anderen Perspektive analysieren und synthetisieren. Der Fokus soll nun auf dem Bereich UX und Gamification, Digital Learning liegen.
 
-##### Gesellschaftliche Relevanz: 
+#### Gesellschaftliche Relevanz: 
 Die Digitalisierung schreitet täglich in allen Lebensbereichen voran. Das Leben ohne digitale Hard- und Software ist kaum noch denkbar. 
 Trotz alldem Fortschritt weist Deutschland noch große Lücken im Bereich Digitalisierung und Bildung auf. Die Studien des ICILS von 2018 belegen das in den meisten Kategorien Deutschland schwach abschneidet. [^4][^5] 
 Die aktuelle Corona Situation hat das Ausmaß dieser Lücken noch verdeutlicht.Nicht nur die Hardware Situation auch der Umgang mit digitalen Medien ist verbesserungswürdig.
@@ -44,21 +45,21 @@ Diese kurze Einleitung soll die Aktualität und Kritikalität des Themas Digital
 Dieses Praxisprojekt baut genau auf diesen Ansätzen an. Mit Hilfe des entwickelten System soll Schülern spielerisch das Thema Stoffkreisläufe in Ökosystemen beigebracht werden. Lehrer sollen dabei durch das System nicht nur unterstützt sondern auch entlastet werden. Das System soll die Möglichkeit bieten auch auf anderen Themengebiet genutzt zu werden. Es fördert somit nicht nur das lernen von neuen eventuell schwierigen Inhalten, sondern soll auch die Medienkopetenz der Schüler:innen fördern. 
 
 Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit diesem Projekt adressiert
-Primär:
+####Primär:
 –	SDG 4 Hochwertige Bildung
 –	SDG 9 Industrie, Innovation und Infrastruktur
-Sekundär:
+####Sekundär:
 –	SDG 11 Nachhaltige Städte und Gemeinden
 –	SDG 12 Nachhaltiger Konsum und Produktion
 –	SDG 13 Maßnahmen zum Klimaschutz
 Quelle: [^1]
 
-##### Wirtschaftliche Relevanz:
+#### Wirtschaftliche Relevanz:
 Die wirtschaftliche Relevanz des Projektes zeigt sich vor allem in den Finanzvolumen der unterschiedlichen Programme zur Digitalisierung (Bsp.:Digitalisierte Schule NRW : Digitalstrategie bis 2025 rund 1,9 Mio € Finanzvolumen [^3]) welche Beweisen das aktuell hohe Summen in diesen Bereich investiert werden.
 
 Auf Lange Sicht soll die Verbesserung der Digitalisierung eine zeitgemäße Gestaltung der Bildung erzielen. Und somit den wirtschaftlichen Wohlstand Deutschland sichern. (Quelle: [^2], S.5ff)
 
-##### Wissenschaftliche Relevanz:
+#### Wissenschaftliche Relevanz:
 Aus wissenschaftlicher Sicht sollen die Themen der Ökologie und Nachhaltigkeit korrekt und didaktisch dargestellt werden.Das Projekt soll spielerisch schwierige Inhalte vermitteln und Schüler:innen und Lehrer:innen unterstützen.
 
 Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschiedlichsten Themen zu verbessern. Sie bietet eine Grundlage für weitere didaktische und wissenschaftliche Forschungen im Bereich Digitalisierung um Lehrpläne und vor allem auch Lehrinhalte zur Verbessern und zu Aktualisieren. 

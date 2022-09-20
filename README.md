@@ -67,8 +67,8 @@ Aus wissenschaftlicher Sicht sollen die Themen der Ökologie und Nachhaltigkeit 
 Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschiedlichsten Themen zu verbessern. Sie bietet eine Grundlage für weitere didaktische und wissenschaftliche Forschungen im Bereich Digitalisierung um Lehrpläne und vor allem auch Lehrinhalte zur Verbessern und zu Aktualisieren. 
 
 ### Quellen:
-[^1]:  Presse- und Informationsamt der Bundesregierung (2021). *Nachhaltigkeitsziele verständlich erklärt.* https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174
-[^2]:   Bundesministerium für Bildung und Schule (Juni 2022). *Fotschritssbericht  DigitalPakt Schule 2019-2022).* https://www.digitalpaktschule.de/files/220616_DigitalPaktSchule_Fortschrittsbericht_barrierefrei.pdf
-[^3]: Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen (2022). *Digitalstrategie Schule NRW.* http://www.broschueren.nrw/digitalstrategie/home/#!/Home
-[^4]: Kultusminister Konferenz (KMK)(2016) *Bildung in der digitalen Welt.* https://broschüren.nrw/fileadmin/digitalstrategie-schule-nrw/pdf/digitalstrategie_schule_nrw__web.pdf
+[^1]:  Presse- und Informationsamt der Bundesregierung (2021). *Nachhaltigkeitsziele verständlich erklärt.* https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174, Litertaur/2021-05-12-dns-2021-kurzfassung-final-barrierefrei-data.pdf
+[^2]:   Bundesministerium für Bildung und Schule (Juni 2022). *Fotschritssbericht  DigitalPakt Schule 2019-2022).* Litertaur/220616_DigitalPaktSchule_Fortschrittsbericht_barrierefrei.pdf
+[^3]: Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen (2022). *Digitalstrategie Schule NRW.* Litertaur/digitalstrategie_schule_nrw__web.pdf
+[^4]: Kultusminister Konferenz (KMK)(2016) *Bildung in der digitalen Welt.* Litertaur/Digitalstrategie_2017_mit_Weiterbildung.pdf
 [^5]: Eickelmann, B., et al. (2019): *ICILS 2018 Deutschland. Comouter. und informationsbezogene Kompetenzen von Schüler:innen imd zweiten internationalen Vergleich und Kompetenzen im Bereich Computational Thinking.* Waxmann. S.1.

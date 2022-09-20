@@ -70,5 +70,5 @@ Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschied
 [^1]:  Presse- und Informationsamt der Bundesregierung (2021). *Nachhaltigkeitsziele verständlich erklärt.* https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174
 [^2]:   Bundesministerium für Bildung und Schule (Juni 2022). *Fotschritssbericht  DigitalPakt Schule 2019-2022).* https://www.digitalpaktschule.de/files/220616_DigitalPaktSchule_Fortschrittsbericht_barrierefrei.pdf
 [^3]: Ministerium für Schule und Bildung des Landes Nordrhein-Westfalen (2022). *Digitalstrategie Schule NRW.* http://www.broschueren.nrw/digitalstrategie/home/#!/Home
-[^4]: Kultusminister Konferenz (KMK)(2016) *Bildung in der digitalen Welt.* https://www.kmk.org/themen/bildung-in-der-digitalen-welt/strategie-bildung-in-der-digitalen-welt.html
+[^4]: Kultusminister Konferenz (KMK)(2016) *Bildung in der digitalen Welt.* https://broschüren.nrw/fileadmin/digitalstrategie-schule-nrw/pdf/digitalstrategie_schule_nrw__web.pdf
 [^5]: Eickelmann, B., et al. (2019): *ICILS 2018 Deutschland. Comouter. und informationsbezogene Kompetenzen von Schüler:innen imd zweiten internationalen Vergleich und Kompetenzen im Bereich Computational Thinking.* Waxmann. S.1.

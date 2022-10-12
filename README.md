@@ -66,6 +66,10 @@ Aus wissenschaftlicher Sicht sollen die Themen der Ökologie und Nachhaltigkeit 
 
 Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschiedlichsten Themen zu verbessern. Sie bietet eine Grundlage für weitere didaktische und wissenschaftliche Forschungen im Bereich Digitalisierung um Lehrpläne und vor allem auch Lehrinhalte zur Verbessern und zu Aktualisieren. 
 
+### Themenfeldanalyse
+
+
+
 ### Quellen:
 [^1]:  Presse- und Informationsamt der Bundesregierung (2021). *Nachhaltigkeitsziele verständlich erklärt.* https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174, Litertaur/2021-05-12-dns-2021-kurzfassung-final-barrierefrei-data.pdf
 [^2]:   Bundesministerium für Bildung und Schule (Juni 2022). *Fotschritssbericht  DigitalPakt Schule 2019-2022).* Litertaur/220616_DigitalPaktSchule_Fortschrittsbericht_barrierefrei.pdf

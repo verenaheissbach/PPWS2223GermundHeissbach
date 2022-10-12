@@ -68,7 +68,7 @@ Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschied
 
 ## Themenfeldanalyse
 
-<img src="https://github.com/verenaheissbach/EPWS2122GermundHeissbach/blob/main/images/aquaponikKreislauf.PNG?raw=true" width="600">
+<img src="https://github.com/verenaheissbach/PPWS2223GermundHeissbach/blob/main/Themenfeldanalyse_PP_Seminar_WiSe22_23_Germund_Heissbach.jpg?raw=true" width="600">
 
 
 

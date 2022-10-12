@@ -66,7 +66,9 @@ Aus wissenschaftlicher Sicht sollen die Themen der Ökologie und Nachhaltigkeit 
 
 Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschiedlichsten Themen zu verbessern. Sie bietet eine Grundlage für weitere didaktische und wissenschaftliche Forschungen im Bereich Digitalisierung um Lehrpläne und vor allem auch Lehrinhalte zur Verbessern und zu Aktualisieren. 
 
-### Themenfeldanalyse
+## Themenfeldanalyse
+
+<img src="https://github.com/verenaheissbach/EPWS2122GermundHeissbach/blob/main/images/aquaponikKreislauf.PNG?raw=true" width="600">
 
 
 

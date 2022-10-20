@@ -74,6 +74,10 @@ Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschied
 
 <img src="https://github.com/verenaheissbach/PPWS2223GermundHeissbach/blob/main/PP%20WiSe%2022_23.jpg?raw=true" width="1000">
 
+## Medienkompetenzrahmen NRW
+
+<img src="https://github.com/verenaheissbach/PPWS2223GermundHeissbach/blob/main/LVR_ZMB_MKR_Rahmen_A4_2020_03_Final.jpg?raw=true" width="1000">
+
 
 ### Quellen:
 [^1]:  Presse- und Informationsamt der Bundesregierung (2021). *Nachhaltigkeitsziele verständlich erklärt.* https://www.bundesregierung.de/breg-de/themen/nachhaltigkeitspolitik/nachhaltigkeitsziele-verstaendlich-erklaert-232174, Literatur/2021-05-12-dns-2021-kurzfassung-final-barrierefrei-data.pdf

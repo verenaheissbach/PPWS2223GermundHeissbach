@@ -72,7 +72,7 @@ Projekte wie dieses können maßgeblich dazu beitragen die Lehre von unterschied
 
 ## Domänenmodell
 
-<img src="https://github.com/verenaheissbach/PPWS2223GermundHeissbach/blob/main/Themenfeldanalyse_PP_Seminar_WiSe22_23_Germund_Heissbach.jpg?raw=true" width="1000">
+<img src="https://github.com/verenaheissbach/PPWS2223GermundHeissbach/blob/main/PP%20WiSe%2022_23.jpg?raw=true" width="1000">
 
 
 ### Quellen:

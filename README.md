@@ -59,7 +59,7 @@ Darüber hinaus werden die folgenden Ziele der Nachhaltigen Entwicklung mit dies
 ### Wirtschaftliche Relevanz:
 Die wirtschaftliche Relevanz des Projektes zeigt sich vor allem in den Finanzvolumen der unterschiedlichen Programme zur Digitalisierung (Bsp.:Digitalisierte Schule NRW : Digitalstrategie bis 2025 rund 1,9 Mio € Finanzvolumen [^3]) welche Beweisen das aktuell hohe Summen in diesen Bereich investiert werden.
 
-Auf Lange Sicht soll die Verbesserung der Digitalisierung eine zeitgemäße Gestaltung der Bildung erzielen. Und somit den wirtschaftlichen Wohlstand Deutschland sichern. (Quelle: [^2], S.5ff)
+Auf Lange Sicht soll die Verbesserung der Digitalisierung eine zeitgemäße Gestaltung der Bildung erzielen. Und somit den wirtschaftlichen Wohlstand Deutschlands sichern. (Quelle: [^2], S.5ff)
 
 ### Wissenschaftliche Relevanz:
 Aus wissenschaftlicher Sicht sollen die Themen der Ökologie und Nachhaltigkeit korrekt und didaktisch dargestellt werden.Das Projekt soll spielerisch schwierige Inhalte vermitteln und Schüler:innen und Lehrer:innen unterstützen.
